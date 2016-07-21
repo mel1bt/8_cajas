@@ -1,0 +1,19 @@
+div {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	background-color: gray;
+	margin-top: 10px;
+}
+.caja{
+	height: 115px;
+    width: 319px;
+    padding: 11px;
+}
+.caja2 {
+	
+	display: inline-block;
+}
+.caja3 {
+	display: inline-block;
+}
